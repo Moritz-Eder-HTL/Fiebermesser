@@ -3,9 +3,11 @@
 
 ## Ziele und Nichtziele
 ### Ziele
-  -
+  - Programm funkioniert
+  - NodeJS Server läuft
+  - Kamera ist mit Raspberry verbunden und funktionsfähig
 ### Nichtziele
-
+  - alles kaputt
 ## Themenbeschreibung
 
 ## Verwendete Technologien
