@@ -1,15 +1,16 @@
 # Fiebermesser
 ## Überblick
-
+  
 ## Ziele und Nichtziele
 ### Ziele
   - Programm funkioniert
   - NodeJS Server läuft
   - Kamera ist mit Raspberry verbunden und funktionsfähig
+  - Bei unrealistischer Temperatur -> Fehlermeldung
+  - Ein voll funktionsfähiger Fiebermesser + userfriendly Website
 ### Nichtziele
-  - alles kaputt
 ## Themenbeschreibung
-
+  Ein Fiebermesser, der einem anzeigt, ob man Fieber hat. Wird mit Infrarot Kamera gemessen. 
 ## Verwendete Technologien
 
 ## Teamzusammensetzung
