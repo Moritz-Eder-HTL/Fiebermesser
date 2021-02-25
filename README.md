@@ -13,6 +13,6 @@
 # Zeitplan
 | Datum         | Thema         | Fortschritt   |
 | :-----------: | :-----------: | :-----------: |
-| 25.02.2021    | right-aligned | $1600         |
-|      | centered      |   $12         |
-|               | are neat      |    $1         |
+| 25.02.2021    | right-aligned |               |
+  |             |               |               |
+|               |               |               |
