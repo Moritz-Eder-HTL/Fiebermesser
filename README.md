@@ -7,12 +7,17 @@
   - NodeJS Server läuft
   - Kamera ist mit Raspberry verbunden und funktionsfähig
   - Bei unrealistischer Temperatur -> Fehlermeldung
-  - Ein voll funktionsfähiger Fiebermesser + userfriendly Website
+  - Ein voll funktionsfähiger Fiebermesser + Website
 ### Nichtziele
+  - 
 ## Themenbeschreibung
-  Ein Fiebermesser, der einem anzeigt, ob man Fieber hat. Wird mit Infrarot Kamera gemessen. 
+  Ein Raspberry, der als Fiebermesser funktioniert inklusive Infrarot Kamera.
 ## Verwendete Technologien
-
+  weiß noch nicht
+  aber zumindest
+  - Github
+  - Raspberry
+  - Infrarot Kamera
 ## Teamzusammensetzung
 - Moritz Eder (Projektleiter)
 - Niklas Pühringer
