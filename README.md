@@ -11,8 +11,9 @@
 - Niklas Pühringer
 - Angela Blaha
 # Zeitplan
-| Datum         | Thema         | Fortschritt   |
+| Datum         | Fortschritt                   | Fortschritt   |
 | :-----------: | :-----------: | :-----------: |
-| 25.02.2021    | right-aligned |               |
-  |             |               |               |
+| 25.02.2021    | Erstellung Github Repository|               |
+|               | Teambildung                   |               |
+|               |               |               |
 |               |               |               |
