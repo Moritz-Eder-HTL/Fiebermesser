@@ -1,18 +1,20 @@
-# Überblick
+# Fiebermesser
+## Überblick
 
-# Ziele und Nichtziele
+## Ziele und Nichtziele
+### Ziele
+  -
+### Nichtziele
 
-# Themenbeschreibung
+## Themenbeschreibung
 
-# Verwendete Technologien
+## Verwendete Technologien
 
-# Teamzusammensetzung
+## Teamzusammensetzung
 - Moritz Eder (Projektleiter)
 - Niklas Pühringer
 - Angela Blaha
-# Zeitplan
+## Zeitplan
 | Datum | Meilenstein |
 | :-----------: | :-----------: |
-| 25.02.2021    | Erstellung Github Repository <br> Teambildung |
-|               |                    |
-|               |               |
+|     |  |
