@@ -25,5 +25,6 @@
 ## Zeitplan
 | Datum | Meilenstein |
 | :-----------: | :-----------: |
-|     |  |
+| 04.03.2021    | Alle können aufs Repo zugreifen |
+ 
  
