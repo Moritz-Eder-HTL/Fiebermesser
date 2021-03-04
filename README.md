@@ -13,12 +13,12 @@
 ## Themenbeschreibung
   Ein Raspberry, der als Fiebermesser funktioniert inklusive Infrarot Kamera.
 ## Verwendete Technologien
-  SW
+  *SW*
 - OpenCV: https://opencv.org/
 - Java Framework: highChart oder chartJS
 - Docker: www.docker.com
 
-  HW
+  *HW*
 - Raspberry PI
 - Raspberry PI Webcam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132664/
 - Raspberry PI IR Cam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132673/
