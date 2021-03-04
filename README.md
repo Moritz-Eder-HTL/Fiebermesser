@@ -6,12 +6,11 @@
   - Programm funkioniert
   - NodeJS Server läuft
   - Kamera ist mit Raspberry verbunden und funktionsfähig
-  - Bei unrealistischer Temperatur -> Fehlermeldung
-  - Ein voll funktionsfähiger Fiebermesser + Website
+  - Iris erkennbar + Website
 ### Nichtziele
   - 
 ## Themenbeschreibung
-  Ein Raspberry, der als Fiebermesser funktioniert inklusive Infrarot Kamera.
+  Ein Raspberry mit Kamera, der eine Iris erkennen kann.
 ## Verwendete Technologien
 #### SW
 - OpenCV: https://opencv.org/
