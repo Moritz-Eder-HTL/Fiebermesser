@@ -21,7 +21,6 @@
 #### HW
 - Raspberry PI
 - Raspberry PI Webcam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132664/
-- Raspberry PI IR Cam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132673/
 ## Teamzusammensetzung
 - Moritz Eder (Projektleiter)
 - Niklas Pühringer
