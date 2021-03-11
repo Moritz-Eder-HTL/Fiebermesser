@@ -12,6 +12,8 @@
 ## Themenbeschreibung
   Ein Raspberry mit Kamera, der eine Iris erkennen kann.
 ## Verwendete Technologien
+#### Raspberry
+Passwort: raspberry
 #### SW
 - OpenCV: https://opencv.org/
 - Java Framework: highChart oder chartJS
