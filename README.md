@@ -14,6 +14,13 @@
 ## Verwendete Technologien
 #### Raspberry
 Passwort: raspberry
+## Protokoll
+- Kamera an Raspberry angeschlossen
+- Kamera Setup https://www.youtube.com/watch?v=bpzGN35oaJ4
+- Kamera Komponenten nachgeschlagen
+     - https://www.raspberrypi.org/blog/whats-that-blue-thing-doing-here/
+     - https://www.amazon.com/Lens-Adjustment-Tool-Raspberry-Camera/dp/B07BZL49K7
+
 #### SW
 - OpenCV: https://opencv.org/
 - Java Framework: highChart oder chartJS
