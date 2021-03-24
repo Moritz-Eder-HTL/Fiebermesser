@@ -18,7 +18,7 @@ Passwort: raspberry
 - Kamera an Raspberry angeschlossen
 - Kamera Setup https://www.youtube.com/watch?v=bpzGN35oaJ4 , https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
 - Kamera Komponenten nachgeschlagen
-     - https://www.raspberrypi.org/blog/whats-that-blue-thing-doing-here/
+     - https://www.ulrischa.de/raspberry-noir-ndvi-webcam-teil-1-blaue-folie-und-der-ndvi/
      - https://www.amazon.com/Lens-Adjustment-Tool-Raspberry-Camera/dp/B07BZL49K7
 
 #### SW
