@@ -21,6 +21,7 @@ Passwort: raspberry
      - https://www.ulrischa.de/raspberry-noir-ndvi-webcam-teil-1-blaue-folie-und-der-ndvi/
      - https://www.amazon.com/Lens-Adjustment-Tool-Raspberry-Camera/dp/B07BZL49K7
 - Open cv Packages installiert 
+     - https://www.youtube.com/watch?v=OugQIz_vcFo
 
 #### SW
 - OpenCV: https://opencv.org/
