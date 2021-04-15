@@ -41,5 +41,6 @@ Passwort: raspberry
 | :-----------: | :-----------: |
 | 04.03.2021    | Alle können aufs Repo zugreifen |
 | 11.03.2021    | Kamera funktioniert|
+| 15.04.2021    | OpenCV installiert|
  
  
