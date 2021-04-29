@@ -43,5 +43,6 @@ Passwort: raspberry
 | 11.03.2021    | Kamera funktioniert|
 | 15.04.2021    | OpenCV installiert|
 | 29.04.2021    | FaceID funktioniert|
+| 29.04.2021    | Node und npm funktionieren nicht|
  
  
