@@ -6,6 +6,8 @@
      - https://www.amazon.com/Lens-Adjustment-Tool-Raspberry-Camera/dp/B07BZL49K7
 - OpenCV Packages installiert 
      - https://cbrell.de/blog/opencv-mit-dem-raspberry-pi-ein-einstieg/ 
+- FaceID erkennt Gesichter
+- Fehler: kompletter Neustart des Projektes
 
 #### SW
 - OpenCV: https://opencv.org/
