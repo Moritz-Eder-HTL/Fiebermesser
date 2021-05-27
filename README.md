@@ -8,7 +8,7 @@
   - Kamera ist mit Raspberry verbunden und funktionsfähig
   - Iris erkennbar + Website
 ### Nichtziele
-  - 
+  - kein Virus
 ## Themenbeschreibung
   Ein Raspberry mit Kamera, der eine Iris erkennen kann.
 ## Verwendete Technologien
