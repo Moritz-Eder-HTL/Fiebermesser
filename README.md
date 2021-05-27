@@ -43,7 +43,7 @@ Passwort: raspberry
 | 11.03.2021    | Kamera funktioniert|
 | 15.04.2021    | OpenCV installiert|
 | 29.04.2021    | FaceID funktioniert|
-| 27.05.2021    | vorläufiger Server läuft|
+| 27.05.2021    | vorläufiger Server aufgesetzt|
 | 27.05.2021    | aktueller Stand: Gesichterkennung läuft, Front End wird bearbeitet|
  
  
