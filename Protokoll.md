@@ -10,6 +10,9 @@
 - Fehler: kompletter Neustart des Projektes
 - OpenCV Packages installiert 
      - https://cbrell.de/blog/opencv-mit-dem-raspberry-pi-ein-einstieg/ 
+- Probleme beim starten der Kamera
+- ![image](https://user-images.githubusercontent.com/71823685/119817449-4b509c00-beee-11eb-966e-a4aa179f632c.png)
+
 
 
 #### SW
