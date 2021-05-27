@@ -5,7 +5,7 @@
      - https://www.ulrischa.de/raspberry-noir-ndvi-webcam-teil-1-blaue-folie-und-der-ndvi/
      - https://www.amazon.com/Lens-Adjustment-Tool-Raspberry-Camera/dp/B07BZL49K7
 - OpenCV Packages installiert 
-     - https://www.youtube.com/watch?v=OugQIz_vcFo  
+     - https://cbrell.de/blog/opencv-mit-dem-raspberry-pi-ein-einstieg/ 
 
 #### SW
 - OpenCV: https://opencv.org/
