@@ -35,7 +35,7 @@ Passwort: raspberry
 ## Teamzusammensetzung
 - Moritz Eder (Projektleiter)
 - Niklas Pühringer
-- Angela Blaha
+- Angela Blaha (ehem.)
 ## Zeitplan
 | Datum | Meilenstein |
 | :-----------: | :-----------: |
@@ -43,6 +43,7 @@ Passwort: raspberry
 | 11.03.2021    | Kamera funktioniert|
 | 15.04.2021    | OpenCV installiert|
 | 29.04.2021    | FaceID funktioniert|
-| 29.04.2021    | Node und npm funktionieren nicht|
+| 27.05.2021    | vorläufiger Server läuft|
+| 27.05.2021    | aktueller Stand: Gesichterkennung läuft, Front End wird bearbeitet|
  
  
