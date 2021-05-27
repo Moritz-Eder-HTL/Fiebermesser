@@ -8,6 +8,9 @@
      - https://cbrell.de/blog/opencv-mit-dem-raspberry-pi-ein-einstieg/ 
 - FaceID erkennt Gesichter
 - Fehler: kompletter Neustart des Projektes
+- OpenCV Packages installiert 
+     - https://cbrell.de/blog/opencv-mit-dem-raspberry-pi-ein-einstieg/ 
+
 
 #### SW
 - OpenCV: https://opencv.org/
