@@ -39,7 +39,6 @@
 | 15.04.2021    | OpenCV installiert|
 | 29.04.2021    | FaceID funktioniert|
 | 27.05.2021    | vorläufiger Server aufgesetzt|
-| 27.05.2021    | aktueller Stand: Gesichterkennung läuft, Front End wird bearbeitet|
 | 27.05.2021    | Fehler beim Update: kompletter Neustart|
 | 27.05.2021    | OpenCV Packages installiert|
 | 27.05.2021    | FaceID funktioniert|
