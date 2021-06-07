@@ -1,4 +1,4 @@
-## Protokoll
+# Protokoll
 
 ## Zeitplan
 | Datum | Meilenstein |
