@@ -24,7 +24,7 @@
 #### SW
 - OpenCV: https://opencv.org/
 - Java Framework: highChart oder chartJS
-- Docker: www.docker.com
+- NodeJS: https://nodejs.org/en/download/
 
 #### HW
 - Raspberry PI
