@@ -1,4 +1,17 @@
 ## Protokoll
+
+## Zeitplan
+| Datum | Meilenstein |
+| :-----------: | :-----------: |
+| 04.03.2021    | Alle können aufs Repo zugreifen |
+| 11.03.2021    | Kamera funktioniert|
+| 15.04.2021    | OpenCV installiert|
+| 29.04.2021    | FaceID funktioniert|
+| 27.05.2021    | vorläufiger Server aufgesetzt|
+| 27.05.2021    | Fehler beim Update: kompletter Neustart|
+| 27.05.2021    | OpenCV Packages installiert|
+| 27.05.2021    | FaceID funktioniert|
+
 - Kamera an Raspberry angeschlossen
 - Kamera Setup https://www.youtube.com/watch?v=bpzGN35oaJ4 , https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
 - Kamera Komponenten nachgeschlagen
@@ -30,15 +43,3 @@
 - Raspberry PI
 - Raspberry PI Webcam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132664/
 - Raspberry PI IR Cam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132673/
-
-## Zeitplan
-| Datum | Meilenstein |
-| :-----------: | :-----------: |
-| 04.03.2021    | Alle können aufs Repo zugreifen |
-| 11.03.2021    | Kamera funktioniert|
-| 15.04.2021    | OpenCV installiert|
-| 29.04.2021    | FaceID funktioniert|
-| 27.05.2021    | vorläufiger Server aufgesetzt|
-| 27.05.2021    | Fehler beim Update: kompletter Neustart|
-| 27.05.2021    | OpenCV Packages installiert|
-| 27.05.2021    | FaceID funktioniert|
