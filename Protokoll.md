@@ -7,6 +7,7 @@
 | 11.03.2021    | Kamera funktioniert|
 | 15.04.2021    | OpenCV installiert|
 | 29.04.2021    | FaceID funktioniert|
+| 06.05.2021    | neue SD-Karte- kompletter Neustart|
 | 27.05.2021    | vorläufiger Server aufgesetzt|
 | 27.05.2021    | Fehler beim Update: kompletter Neustart|
 | 27.05.2021    | OpenCV Packages installiert|
