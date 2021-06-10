@@ -45,3 +45,11 @@
 - Raspberry PI
 - Raspberry PI Webcam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132664/
 - Raspberry PI IR Cam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132673/
+
+#### Code
+- HTML:
+![indexHTML](https://user-images.githubusercontent.com/71823685/121514609-81147b00-c9ec-11eb-849f-17a84cd993cb.PNG)
+- send.js:
+![sendJS](https://user-images.githubusercontent.com/71823685/121514642-8c67a680-c9ec-11eb-976a-2aad6adae572.PNG)
+- server.js:
+![serverJS](https://user-images.githubusercontent.com/71823685/121514673-92f61e00-c9ec-11eb-9e26-6d69a30a5419.PNG)
