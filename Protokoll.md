@@ -39,7 +39,7 @@
 - OpenCV: https://opencv.org/
 - Java Framework: highChart oder chartJS
 - NodeJS: https://nodejs.org/en/download/
-- verwendeter js Code: https://edufs.edu.htl-leonding.ac.at/moodle/mod/resource/view.php?id=122356
+- verwendeter python Code: https://edufs.edu.htl-leonding.ac.at/moodle/mod/resource/view.php?id=122356
 
 #### HW
 - Raspberry PI
