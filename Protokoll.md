@@ -34,6 +34,8 @@
      - ![image](https://user-images.githubusercontent.com/71823685/119818435-7b4c6f00-beef-11eb-9711-f4fb3ab20a95.png)
 - NodeJS Installation
      - https://tutorials-raspberrypi.de/raspberry-pi-nodejs-webserver-installieren-gpios-steuern
+- NodeJS Deinstallation
+     - https://im-coder.com/deinstallieren-sie-nodejs-npm-und-node-vollstaendig-in-ubuntu-14-04.html
 
 
 #### SW
