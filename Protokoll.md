@@ -11,15 +11,18 @@
 | 27.05.2021    | vorläufiger Server aufgesetzt <br> Fehler beim Update: kompletter Neustart <br> OpenCV Packages installiert <br> FaceID funktioniert|
 | 13.06.2021    | Server wird nun mit Template Daten aufgesetzt <br> Server funktioniert|
 
-- Kamera an Raspberry angeschlossen
+## 04.03
 - Kamera Setup https://www.youtube.com/watch?v=bpzGN35oaJ4 , https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
 - Kamera Komponenten nachgeschlagen
      - https://www.ulrischa.de/raspberry-noir-ndvi-webcam-teil-1-blaue-folie-und-der-ndvi/
      - https://www.amazon.com/Lens-Adjustment-Tool-Raspberry-Camera/dp/B07BZL49K7
+## 15.04
 - OpenCV Packages installiert 
      - https://cbrell.de/blog/opencv-mit-dem-raspberry-pi-ein-einstieg/ 
 - FaceID erkennt Gesichter
+## 06.05
 - Fehler: kompletter Neustart des Projektes
+## 27.05
 - OpenCV Packages installiert 
      - https://cbrell.de/blog/opencv-mit-dem-raspberry-pi-ein-einstieg/ 
      - Verwendete Befehle: sudo raspi-config
@@ -28,7 +31,12 @@
 - Probleme beim starten der Kamera
  ![image](https://user-images.githubusercontent.com/71823685/119817449-4b509c00-beee-11eb-966e-a4aa179f632c.png)
 - Kamera mit FaceID funktioniert
-     - ![image](https://user-images.githubusercontent.com/71823685/119818435-7b4c6f00-beef-11eb-9711-f4fb3ab20a95.png)
+     - ![image](https://user-images.githubusercontent.com/71823685/119818435-7b4c6f00-beef-11eb-9711-f4fb3ab20a95.png)![Uploading image.png…]()
+## 11.06
+- Probleme bei Gesichtserkennung und bei der Installation von NodeJS
+## 13.06
+- Server aufgesetzt 
+- Lösungen für Probleme werden gesucht
 
 
 #### SW
@@ -46,7 +54,7 @@
 - Raspberry PI Webcam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132664/
 - Raspberry PI IR Cam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132673/
 
-#### Server + Code
+### Server + Code (temporäre Daten)
 - Website
 - ![Website](https://user-images.githubusercontent.com/77103768/121804790-5cb4da80-cc48-11eb-8ee7-6080edb82af5.png)
 - HTML: 
