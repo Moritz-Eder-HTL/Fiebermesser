@@ -32,8 +32,8 @@
  ![image](https://user-images.githubusercontent.com/71823685/119817449-4b509c00-beee-11eb-966e-a4aa179f632c.png)
 - Kamera mit FaceID funktioniert
      - ![image](https://user-images.githubusercontent.com/71823685/119818435-7b4c6f00-beef-11eb-9711-f4fb3ab20a95.png)
-
-
+- NodeJS Installation
+     - https://tutorials-raspberrypi.de/raspberry-pi-nodejs-webserver-installieren-gpios-steuern
 
 
 #### SW
