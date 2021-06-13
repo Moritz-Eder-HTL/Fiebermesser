@@ -32,18 +32,17 @@
  ![image](https://user-images.githubusercontent.com/71823685/119817449-4b509c00-beee-11eb-966e-a4aa179f632c.png)
 - Kamera mit FaceID funktioniert
      - ![image](https://user-images.githubusercontent.com/71823685/119818435-7b4c6f00-beef-11eb-9711-f4fb3ab20a95.png)
-- NodeJS Installation
-     - https://tutorials-raspberrypi.de/raspberry-pi-nodejs-webserver-installieren-gpios-steuern
-- NodeJS Deinstallation
-     - https://im-coder.com/deinstallieren-sie-nodejs-npm-und-node-vollstaendig-in-ubuntu-14-04.html
 
 
 #### SW
 - OpenCV: https://opencv.org/
 - Java Framework: highChart oder chartJS
 - NodeJS: https://nodejs.org/en/download/
-- NodeJS auf Rasp: https://www.makersupplies.sg/blogs/tutorials/how-to-install-node-js-and-npm-on-the-raspberry-pi
 - verwendeter python Code: https://edufs.edu.htl-leonding.ac.at/moodle/mod/resource/view.php?id=122356
+- NodeJS Installation
+     - https://tutorials-raspberrypi.de/raspberry-pi-nodejs-webserver-installieren-gpios-steuern
+- NodeJS Deinstallation
+     - https://im-coder.com/deinstallieren-sie-nodejs-npm-und-node-vollstaendig-in-ubuntu-14-04.html
 
 #### HW
 - Raspberry PI
