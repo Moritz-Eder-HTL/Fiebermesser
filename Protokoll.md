@@ -50,33 +50,9 @@
 - Raspberry PI IR Cam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132673/
 
 #### Code
-- HTML:
-- <!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Raspberry</title>
-    <script src="sendJS.js" defer></script>
-    <link rel="stylesheet" href="style.css" type="text/css">
-</head>
-
-<body>
-    <header>
-        <h1>Raspberry PI Kamera Daten</h1>
-    </header>
-
-    <main>
-        <div id="erg">
-            <!-- Raspberry Daten -->
-        </div>
-    </main>
-
-</body>
-</html>
-- send.js:
-- ![sendJS](https://user-images.githubusercontent.com/71823685/121514642-8c67a680-c9ec-11eb-976a-2aad6adae572.PNG)
-- server.js:
-- ![serverJS](https://user-images.githubusercontent.com/71823685/121514673-92f61e00-c9ec-11eb-9e26-6d69a30a5419.PNG)
+- HTML: 
+- ![index.html](https://user-images.githubusercontent.com/77103768/121804662-ce405900-cc47-11eb-8dab-9daa5317976a.png)
+- serverJS.js:
+- ![serverJS.js](https://user-images.githubusercontent.com/77103768/121804680-f039db80-cc47-11eb-9974-14c08cdf074c.png)
+- sendJS.js:
+- ![sendJS.js](https://user-images.githubusercontent.com/77103768/121804724-10699a80-cc48-11eb-810a-6bc4bb81c38a.png)
