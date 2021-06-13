@@ -51,7 +51,31 @@
 
 #### Code
 - HTML:
-- ![indexHTML](https://user-images.githubusercontent.com/71823685/121514609-81147b00-c9ec-11eb-849f-17a84cd993cb.PNG)
+- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Raspberry</title>
+    <script src="sendJS.js" defer></script>
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+
+<body>
+    <header>
+        <h1>Raspberry PI Kamera Daten</h1>
+    </header>
+
+    <main>
+        <div id="erg">
+            <!-- Raspberry Daten -->
+        </div>
+    </main>
+
+</body>
+</html>
 - send.js:
 - ![sendJS](https://user-images.githubusercontent.com/71823685/121514642-8c67a680-c9ec-11eb-976a-2aad6adae572.PNG)
 - server.js:
