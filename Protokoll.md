@@ -12,6 +12,21 @@
 | 13.06.2021    | Server wird nun mit Template Daten aufgesetzt <br> Server funktioniert|
 | 17.06.2021    | Python updaten <br>nodeJS installiert<br> Server läuft|
 
+#### SW
+- OpenCV: https://opencv.org/
+- Java Framework: highChart oder chartJS
+- NodeJS: https://nodejs.org/en/download/
+- verwendeter python Code: https://edufs.edu.htl-leonding.ac.at/moodle/mod/resource/view.php?id=122356
+- NodeJS Installation
+     - https://tutorials-raspberrypi.de/raspberry-pi-nodejs-webserver-installieren-gpios-steuern
+- NodeJS Deinstallation
+     - https://im-coder.com/deinstallieren-sie-nodejs-npm-und-node-vollstaendig-in-ubuntu-14-04.html
+
+#### HW
+- Raspberry PI
+- Raspberry PI Webcam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132664/
+- Raspberry PI IR Cam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132673/
+
 ## 04.03
 - Kamera Setup https://www.youtube.com/watch?v=bpzGN35oaJ4 , https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
 - Kamera Komponenten nachgeschlagen
@@ -38,28 +53,6 @@
 ## 13.06
 - Server aufgesetzt 
 - Lösungen für Probleme werden gesucht
-## 17.06
-- Python updaten
-- nodeJS installiert
-- ![nodejs](https://user-images.githubusercontent.com/71823685/122380503-3ce32680-cf68-11eb-845f-c63f25bac5de.jpg)
-- Server läuft
-- ![server](https://user-images.githubusercontent.com/71823685/122383425-1bd00500-cf6b-11eb-9bd8-14451e99b3f8.jpg)
-
-
-#### SW
-- OpenCV: https://opencv.org/
-- Java Framework: highChart oder chartJS
-- NodeJS: https://nodejs.org/en/download/
-- verwendeter python Code: https://edufs.edu.htl-leonding.ac.at/moodle/mod/resource/view.php?id=122356
-- NodeJS Installation
-     - https://tutorials-raspberrypi.de/raspberry-pi-nodejs-webserver-installieren-gpios-steuern
-- NodeJS Deinstallation
-     - https://im-coder.com/deinstallieren-sie-nodejs-npm-und-node-vollstaendig-in-ubuntu-14-04.html
-
-#### HW
-- Raspberry PI
-- Raspberry PI Webcam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132664/
-- Raspberry PI IR Cam https://at.rs-online.com/web/p/raspberry-pi-kameras/9132673/
 
 ### Server + Code (temporäre Daten)
 - Website
@@ -70,3 +63,10 @@
 - ![serverJS.js](https://user-images.githubusercontent.com/77103768/121804680-f039db80-cc47-11eb-9974-14c08cdf074c.png)
 - sendJS.js:
 - ![sendJS.js](https://user-images.githubusercontent.com/77103768/121804724-10699a80-cc48-11eb-810a-6bc4bb81c38a.png)
+
+## 17.06
+- Python updaten
+- nodeJS installiert
+- ![nodejs](https://user-images.githubusercontent.com/71823685/122380503-3ce32680-cf68-11eb-845f-c63f25bac5de.jpg)
+- Server läuft
+- ![server](https://user-images.githubusercontent.com/71823685/122383425-1bd00500-cf6b-11eb-9bd8-14451e99b3f8.jpg)
