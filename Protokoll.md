@@ -41,7 +41,7 @@
 ## 17.06
 - Python updaten
 - nodeJS installiert
- ![nodejs](https://user-images.githubusercontent.com/71823685/122380503-3ce32680-cf68-11eb-845f-c63f25bac5de.jpg)
+- ![nodejs](https://user-images.githubusercontent.com/71823685/122380503-3ce32680-cf68-11eb-845f-c63f25bac5de.jpg)
 
 
 #### SW
