@@ -10,7 +10,7 @@
 | 06.05.2021    | neue SD-Karte- kompletter Neustart|
 | 27.05.2021    | vorläufiger Server aufgesetzt <br> Fehler beim Update: kompletter Neustart <br> OpenCV Packages installiert <br> FaceID funktioniert|
 | 13.06.2021    | Server wird nun mit Template Daten aufgesetzt <br> Server funktioniert|
-| 17.06.2021    | Python updaten <br>nodeJS installiert<br> Server läuft|
+| 17.06.2021    | Python updaten <br>nodeJS installiert<br> Server läuft<br> Daten können per Post-Route zu Server geschickt und angezeigt werden|
 
 #### SW
 - OpenCV: https://opencv.org/
